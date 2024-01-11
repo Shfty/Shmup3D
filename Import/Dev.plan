@@ -1,0 +1,33 @@
+CORE
+-Score
+-Play volume coordinate space for enemy movement
+-Boss fight framework
+-Persistent GameInstance for storing lives, score, upgrade state, etc
+-Lives, game over + continue, basic game flow
+-Fix boost orientation being tied to the framerate
+-Enemies that can stop the play volume until defeated
+-Better notify player when enemy enters play volume
+
+DEVELOPMENT PIPELINE
+-Test Map
+	-Multiple play volumes that the player can move between
+	-Use for testing scenarios
+-Sequence player blueprint w/time dilation support
+
+NICE TO HAVE
+-UMG-driven 3D minimap
+-Itano missile movement by curve
+-Score multiplier
+-Combo system
+	-Action readout
+-Level streaming/transition framework with animated loading screen
+-Twin missile impact point decals
+
+FUTURE
+-Powerup/upgrade system
+
+FEEDBACK
+Alex:
+-Orientation is difficult
+-Enemy awareness, should be in the level persistently rather than popping in
+-Needs a progression system, too much to take in at once

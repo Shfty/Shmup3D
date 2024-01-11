@@ -1,0 +1,25 @@
+Misty Forest
+	-Blue Scorpion
+
+Flooded Gorge
+	-Exit the Premises
+
+Ice Moon
+	-Rhinoceros
+
+Space Facility
+	-Blown Away
+	
+Space Elevator
+	-Shiny Tech 2
+
+Binary Stars
+	-Ouroboros
+
+Inhabited Asteroid
+	-Rocket
+
+Bosses
+	-Cephalopod
+	-Club Diver
+	-Steel Rods
